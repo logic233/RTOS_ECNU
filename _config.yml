@@ -1,5 +1,5 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
+title: 嵌入式操作系统_2022春
+description: 分享一些硬件的使用手册
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
