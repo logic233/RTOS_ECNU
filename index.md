@@ -13,5 +13,6 @@ https://docs.espressif.com/projects/esp-idf/zh_CN/latest/esp32/hw-reference/esp3
 ## 2. ESP32-C6-DevKitC-1
 不带以太网口
 - 入门指南
+
 https://docs.espressif.com/projects/espressif-esp-dev-kits/zh_CN/latest/esp32c6/esp32-c6-devkitc-1/index.html
 
