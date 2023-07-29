@@ -1,6 +1,7 @@
 
 ### 简介
 此次实验所提供两种硬件，分别为ESP32-Ethernet-Kit以及ESP32-C6-DevKitC-1。
+
 其中最主要区别在于是否提供以太网口。
 #### ESP32-Ethernet-Kit
 带以太网口
